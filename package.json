@@ -1,0 +1,22 @@
+{
+  "name": "notice",
+  "version": "1.0.0",
+  "description": "Notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhanhaocheng/Notice.git"
+  },
+  "keywords": [
+    "notification"
+  ],
+  "author": "Zhan Haocheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhanhaocheng/Notice/issues"
+  },
+  "homepage": "https://github.com/Zhanhaocheng/Notice#readme"
+}
